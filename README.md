@@ -1,2 +1,2 @@
 # JS-lab
-my tinkering with js
+my testing and learning of js
